@@ -1,0 +1,9 @@
+[project]
+name = "MK Flash"
+version = "1.2.0"
+description = "Digital Banking App"
+icon = "assets/icon.png"
+
+[tool.flet]
+app_name = "Bank-My-Wallet"
+app_id = "com.bank.mywallet"
